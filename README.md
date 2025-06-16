@@ -32,8 +32,8 @@ REST APIs · CSV · Excel exports
 
 ## ⭐ Featured Projects
 
-- [BuscarCasaCurico](https://github.com/casticasticasti/BuscarCasaCurico)  
-  Bash script that scrapes real‑estate listings and outputs Excel reports for Curicó properties.
+- [Fix 1132](https://github.com/casticasticasti/fix1132)  
+  Script is designed to help you resolve a specific video conferencing issue on macOS.
 
 - [TelegramExcelView](https://github.com/casticasticasti/TelegramExcelView)  
   Quick‑and‑dirty tool to turn your Telegram chat logs into filterable Excel sheets.
